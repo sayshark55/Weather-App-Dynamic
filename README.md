@@ -9,5 +9,8 @@ Dynamic Weather App Using Express.JS with JavaScript, CSS and HTML. Included API
 ![Screenshot (757)](https://user-images.githubusercontent.com/32270549/177007601-bd2a01a5-bff5-4451-87b0-b3be442178c0.png)
 # 4.404-Error Page
 ![Screenshot (760)](https://user-images.githubusercontent.com/32270549/177007718-3870b331-66b4-44be-a571-dcfc7da05603.png)
+# Search Ahmednagar Temperature
+![Screenshot (761)](https://user-images.githubusercontent.com/32270549/177008036-f3ca63df-6892-4aa8-84ae-d8a24718c3cd.png)
+
 
 # Key Features : ExpressJS, NodeJS, API Handling Operations, CSS, HTML, JavaScript, HandleBars, NodeJS Modules, Lottie Animations & Much More..
