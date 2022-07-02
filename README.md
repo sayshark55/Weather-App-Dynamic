@@ -10,4 +10,4 @@ Dynamic Weather App Using Express.JS with JavaScript, CSS and HTML. Included API
 # 4.404-Error Page
 ![Screenshot (760)](https://user-images.githubusercontent.com/32270549/177007718-3870b331-66b4-44be-a571-dcfc7da05603.png)
 
-# Key Features : ExpressJS, NodeJS, API Handling Operations, CSS, HTML, JavaScript, HandleBars, NodeJS Modules, Much More..
+# Key Features : ExpressJS, NodeJS, API Handling Operations, CSS, HTML, JavaScript, HandleBars, NodeJS Modules, Lottie Animations & Much More..
